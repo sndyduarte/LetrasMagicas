@@ -1,6 +1,7 @@
-![TK2qpCeoJpgj6L-l0bCtB](https://github.com/user-attachments/assets/0f751e4f-a257-4086-bf06-0d8a7469f918)
+![WhatsApp Image 2025-03-28 at 10 46 36](https://github.com/user-attachments/assets/5bcf335b-f544-415f-baae-8494cbbf4bb4)
 
 # Sumário
+
 
 Planejamento
 
@@ -15,17 +16,17 @@ Scrum
 # 1. Planejamento
 
 
-1.1 Objetivo
+    1.1 Objetivo
 
 Desenvolver um aplicativo interativo para auxiliar na alfabetização de crianças de 6 a 10 anos, utilizando uma abordagem gamificada com uma trilha de caminhada para aprendizado e um sistema de banco de dados para monitorar o progresso.
 
 
-1.2 Justificativa
+    1.2 Justificativa
 
 A alfabetização é uma etapa essencial no desenvolvimento infantil, e o uso de tecnologia pode tornar esse processo mais dinâmico e envolvente. O formato gamificado incentiva a aprendizagem de maneira lúdica e personalizada, estimulando o engajamento das crianças.
 
 
-1.3 Metodologia
+    1.3 Metodologia
 
 ● Desenvolvimento iterativo baseado na metodologia ágil (Scrum).
 
@@ -37,7 +38,7 @@ A alfabetização é uma etapa essencial no desenvolvimento infantil, e o uso de
 # 2. Requisitos
 
   
-2.1 Requisitos Funcionais
+    2.1 Requisitos Funcionais
 
 
 ● Cadastro de alunos e responsáveis.
@@ -53,7 +54,7 @@ A alfabetização é uma etapa essencial no desenvolvimento infantil, e o uso de
 ● Relatórios de evolução acessíveis aos pais e professores.
 
 
-2.2 Requisitos Não Funcionais
+    2.2 Requisitos Não Funcionais
 
 
 ● Interface colorida e intuitiva, voltada para o público infantil.
@@ -68,7 +69,7 @@ A alfabetização é uma etapa essencial no desenvolvimento infantil, e o uso de
 # 3. Desenvolvimento
 
 
-3.1 Tecnologias Utilizadas
+    3.1 Tecnologias Utilizadas
 
 
 ● Frontend: Flutter para desenvolvimento multiplataforma.
@@ -87,7 +88,7 @@ A alfabetização é uma etapa essencial no desenvolvimento infantil, e o uso de
 # 4. MVP (Produto Mínimo Viável)
 
 
-4.1 Funcionalidades Entregues
+    4.1 Funcionalidades Entregues
 
 
 ● Trilha de aprendizagem com fases progressivas.
@@ -101,7 +102,7 @@ A alfabetização é uma etapa essencial no desenvolvimento infantil, e o uso de
 ● Design interativo e adequado para crianças.
 
 
-4.2 Limitações
+    4.2 Limitações
 
 
 ● Apenas o idioma português na versão inicial.
@@ -114,22 +115,22 @@ A alfabetização é uma etapa essencial no desenvolvimento infantil, e o uso de
 # 5. Scrum - Planejamento dos Sprints
 
 
-Sprint 1 – Configuração do Ambiente e Banco de Dados
+    Sprint 1 – Configuração do Ambiente e Banco de Dados
 Configurar Firebase Firestore para progresso dos alunos Configurar PostgreSQL para dados permanentes (cadastro, estatísticas) Implementar Firebase Authentication para login de alunos e responsáveis Criar o Termo de Consentimento para pais/responsáveis
-
-Sprint 2 – Interface e Fluxo Principal
+  
+    Sprint 2 – Interface e Fluxo Principal
 Criar tela de login e gerenciamento de contas Criar a tela principal com a trilha de aprendizado Criar os primeiros exercícios de leitura e escrita Implementar segurança nos dados (criptografia de informações sensíveis)
 
-Sprint 3 – Interatividade e Sistema de Feedback
+    Sprint 3 – Interatividade e Sistema de Feedback
 Implementar sistema de recompensas e conquistas Criar a dashboard para pais e professores acompanharem o progresso Implementar feedback interativo nos exercícios Definir o modelo de IA para reconhecimento de voz (Whisper ou Google Speech-to-Text)
 
-Sprint 4 – Implementação do Reconhecimento de Voz
+    Sprint 4 – Implementação do Reconhecimento de Voz
 Configurar a IA para avaliar pronúncia das crianças Ajustar o sistema de feedback para personalizar dicas baseadas no desempenho Criar um modelo básico de aprendizado para identificar dificuldades
 
-Sprint 5 – Testes e Otimizações
+    Sprint 5 – Testes e Otimizações
 Testes de usabilidade com crianças e pais Melhorias no design e performance do app Implementação de backups automáticos (Firebase e AWS) Ajustes de segurança para garantir privacidade dos dados
 
-Passos Incrementais
+    Passos Incrementais
 
 ● Após a Sprint 5, iniciar melhorias baseadas no feedback dos usuários.
 
