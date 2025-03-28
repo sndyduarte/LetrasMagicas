@@ -105,11 +105,11 @@ A alfabetização é uma etapa essencial no desenvolvimento infantil, e o uso de
     4.2 Limitações
 
 
-● Apenas o idioma português na versão inicial.
+● Apenas o idioma português na versão inicial - o interesse maior é a alfabetização de crianças brasileiras em regiões de vulnerabilidade.
 
-● Modelos básicos de reconhecimento de voz.
+● Modelos básicos de reconhecimento de voz - Utilização de PLN (Processamento de Linguagem Natural) para refinamento do processo.
 
-● Disponibilidade inicial apenas para Android.
+● Disponibilidade inicial apenas para Android - maior utilização pelo público-alvo, viabilizando o acesso das escolas.
 
 
 # 5. Scrum - Planejamento dos Sprints
